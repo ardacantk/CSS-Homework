@@ -1,0 +1,55 @@
+body{
+    background-color:lightsteelblue;
+}
+
+.mainTitle {
+    text-align: center;
+    color: darkslateblue;
+}
+
+.navList {
+    text-align: center;
+    margin: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rosybrown;
+    font-weight: bold;
+}
+
+.subTitle {
+    text-align: center;
+    color: teal;
+}
+
+.homepagePhi {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+.phimg {
+    width: 200px;
+    align-items: center;
+}
+
+#phi1, #phi2, #phi3, #phi4 {
+    display: block;
+    align-items: center;
+}
+
+.phiCont {
+    text-align: center;
+}
+
+.phiList {
+    display: inline-block;
+    text-align: left;
+}
